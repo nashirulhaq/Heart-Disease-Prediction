@@ -1,5 +1,5 @@
 
-# Data Cleaning and Heart Disease Prediction
+# Heart Disease Prediction
 
 This repository contains notebooks for data cleaning and a machine learning model to predict heart disease. Follow the steps below to set up the environment and get started.
 
